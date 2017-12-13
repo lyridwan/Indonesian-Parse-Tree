@@ -5,6 +5,7 @@
   - [Introduction](#introduction)
   - [Corpus](#corpus)
   - [How to Use](#how-to-use)
+  - [Screenshot](#screenshot)
   - [Credits](#credits)
   - [License](#license)
 
@@ -34,6 +35,7 @@ Sentence:
 `ibu dan ayah pergi ke pasar di Jakarta`
 
 Console output:
+
 [![image.png](https://s5.postimg.org/af2brar7b/image.png)](https://postimg.org/image/8ahyq7pkj/)
 
 Tree visualization:
